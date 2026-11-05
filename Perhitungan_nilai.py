@@ -1,10 +1,11 @@
+
 #input
 jumlah_mahasiswa = int(input("Jumlah mahasiswa: "))
 
 if jumlah_mahasiswa > 0 and jumlah_mahasiswa <= 10:
       total_nilai = 0
 
-#perhiungan
+#perhitungan
       for i in range(jumlah_mahasiswa):
         nilai = int(input(f"Masukkan Nilai Mahasiswa {i + 1}:"))
         total_nilai = total_nilai + nilai
