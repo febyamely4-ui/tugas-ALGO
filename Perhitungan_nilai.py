@@ -22,4 +22,4 @@ else:
 
 
 perhitungan nilai mahasiswa
-https://github.com/febyamely4-ui/tugas-ALGO/blob/main/Perhitungan_nilai.py
+https://pz.run/3EN06RXXSkfcq
