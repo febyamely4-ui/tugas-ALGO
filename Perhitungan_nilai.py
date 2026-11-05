@@ -16,3 +16,10 @@ if jumlah_mahasiswa > 0 and jumlah_mahasiswa <= 10:
   
 else: 
   print("Jumlah Mahasiswa tidak valid, Min 1 dan Max 10")
+
+
+
+
+
+perhitungan nilai mahasiswa
+https://github.com/febyamely4-ui/tugas-ALGO/blob/main/Perhitungan_nilai.py
